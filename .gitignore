@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+.DS_Store
+cypress/screenshots/
+cypress/videos/
+
+# Local tooling and generated metadata
+.sfdx/
